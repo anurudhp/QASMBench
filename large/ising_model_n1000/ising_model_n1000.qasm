@@ -10996,6 +10996,7 @@ rz(-0.000000e+00) reg[999];
 h reg[999];
 rz(-0.000000e+00) reg[999];
 
+creg out[500];
 measure reg[0] -> out[0];
 measure reg[1] -> out[1];
 measure reg[2] -> out[2];
