@@ -2283,3 +2283,5 @@ rz(5.547861e+00) reg[4];
 cx reg[5],reg[4];
 y reg[5];
 y reg[4];
+creg out[6];
+measure reg -> out;

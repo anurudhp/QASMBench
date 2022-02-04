@@ -10809,4 +10809,5 @@ rz(3.161797e+00) reg[6];
 cx reg[7],reg[6];
 y reg[7];
 y reg[6];
-
+creq out[8];
+measure reg -> out;
