@@ -221,5 +221,5 @@ rz(1.228531e+00) reg[2];
 cx reg[3],reg[2];
 y reg[3];
 y reg[2];
-creq out[4];
+creg out[4];
 measure reg -> out;
